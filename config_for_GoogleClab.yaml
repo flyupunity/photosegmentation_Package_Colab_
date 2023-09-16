@@ -1,4 +1,4 @@
-path: /content/Photo_Segmentation/CatDetector
+path: /content/photosegmentation_Package_Colab_
 train: train
 val: valid
 
