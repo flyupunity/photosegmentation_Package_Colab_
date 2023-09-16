@@ -1,7 +1,0 @@
-path: C:\Users\1\Desktop\Repository-Photo_Segmentation\CatDetector
-train: train
-val: valid
-
-#Classes
-names:
-    0: cat
